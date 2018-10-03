@@ -1,0 +1,6 @@
+*{margin:0;padding:0;}
+.layout{width: 315px;height:300px;margin:40px auto;}
+.layout span,.layout a{display: inline-block;width: 100px;height:100px;text-align: center;line-height: 100px;}
+.layout a{border: 1px #000 solid;cursor: pointer;background: cadetblue;}
+.layout a.on{background: #ddd;}
+.layout span.cur{background: rgb(70, 109, 172)}
